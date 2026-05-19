@@ -45,4 +45,3 @@ node sysinfo.js --scan /home --top 10
 
    1.    14.20 GB   ...AppData\Local\Packages\...\backup.vhd
    2.     8.51 GB   ...Videos\recording_2024.mp4
-```
