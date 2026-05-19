@@ -41,7 +41,3 @@ node sysinfo.js --scan /home --top 10
 |----|------------|
 | macOS / Linux | `df -k` |
 | Windows | `wmic logicaldisk` |
-
-
-   1.    14.20 GB   ...AppData\Local\Packages\...\backup.vhd
-   2.     8.51 GB   ...Videos\recording_2024.mp4
